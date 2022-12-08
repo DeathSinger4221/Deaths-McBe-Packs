@@ -13,10 +13,10 @@
   | `tpi.item` | Gives you the TP Menu used for sending and recieving TP Requests to and from other players online |
   | `tpi.bed` | Teleports you to your respawn point by using end portals |
   | `tpi.spawn` | Teleports you to the location that has been set as the "Spawn" by world operators using `tpi.set_spawn` |
-  | `tpi.set_warp` | **[Operators Only]** Use to set the location for `tpi.spawn` to teleport to |
+  | `tpi.set_spawn` | **[Operators Only]** Use to set the location for `tpi.spawn` to teleport to |
 
 # Warning
-  When using the `tpi.bed` command for the first time, it will __teleport to the void and fail__. Because I cannot run /setblock in unloaded chunks. To successfully set the bed warp system up. Teleport to the end dimension using `/execute as @s in minecraft:the_end run tp @s 0 5 0` and then run the `tpi.bed` command, you should see an end_portal block appear at 0 1 0 and bedrock at 0 0 0. If this happens, the bed warp has been set up.
+  When using the `tpi.bed` command for the first time, it will __teleport to the void and fail__. Because it can't run `/setblock` in unloaded chunks. To successfully set the bed warp system up. Teleport to the end dimension using `/execute as @s in minecraft:the_end run tp @s 0 5 0` and then run the `tpi.bed` command, you should see an end_portal block appear at 0 1 0 and bedrock at 0 0 0. If this happens, the bed warp has been set up.
 
 # TP Menu Information
   <img src="https://user-images.githubusercontent.com/115075789/206479917-fc91efd8-29a1-4b46-8d55-50cf3c7aef93.png" width="500">
