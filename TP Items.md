@@ -5,7 +5,13 @@
   This is a behavior pack that adds some new custom commands. One to mark down the "Spawn" where you build your server builds and an other one that teleports you to the "Spawn", and an other command to teleport your self back to your respawn point. There is as well a TP Menu *(teleportation menu)*, that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*
  
 # Experimental Toggles
-  <img src="https://user-images.githubusercontent.com/115075789/206471420-eefcbf8d-8a34-48b0-a613-ac9baa4d9966.png" width="700">
+  | | |
+  | :--- | :---: |
+  | **Holiday Creator Features** | <img src="https://user-images.githubusercontent.com/115075789/207722874-c9c3b1d5-8ee3-428f-95a9-564a5bd21361.png" width="75"> |
+  | **Custom Biomes** | <img src="https://user-images.githubusercontent.com/115075789/207723014-b09cdef4-b687-42e0-a371-6632e93f5458.png" width="75"> |
+  | **Upcoming Creator Features** | <img src="https://user-images.githubusercontent.com/115075789/207723014-b09cdef4-b687-42e0-a371-6632e93f5458.png" width="75"> |
+  | **Beta APIs** | <img src="https://user-images.githubusercontent.com/115075789/207722874-c9c3b1d5-8ee3-428f-95a9-564a5bd21361.png" width="75"> |
+  | **MoLang Features** | <img src="https://user-images.githubusercontent.com/115075789/207723014-b09cdef4-b687-42e0-a371-6632e93f5458.png" width="75"> |
 
 # Custom Commands Information
   | **Command** | **Description** |
