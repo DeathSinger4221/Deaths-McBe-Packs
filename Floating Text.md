@@ -1,6 +1,6 @@
 <div align=center>
 
-# [Download v1.0](https://www.mediafire.com/file/opmh2huh0wz6hdb/Floating_Text_v1.0.mcpack/file#)
+# [Download v1.1](https://www.mediafire.com/file/zkpn582qxupi0d2/Floating_Text_v1.1.mcpack/file#)
 # Floating Text
   This is a behavior pack that adds a new [<img src="https://user-images.githubusercontent.com/115075789/209588387-66c68c72-7a84-44d1-a552-9026d7054aa7.png" width="17">]() Floating Text Menu and Floating Textst to your game. Using the menu you can place new texts and manage existing ones.
 
