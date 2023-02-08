@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Download v1.5](https://www.mediafire.com/file/xhipceycjztpn23/TP_Items_v1.5.mcpack/file#)
+# [Download v1.5.2](https://www.mediafire.com/file/e269lq4883mla18/TP_Items_v1.5.2.mcpack/file#)
 # Teleportation Items and Warp Commands
   This is a behavior pack that adds two new custom commands. One to teleport you to "Spawn" that the world operators have marker with a custom entity, and an other command to teleport your self back to your respawn point. There is as well a <img src="https://user-images.githubusercontent.com/115075789/209723243-ce4783f9-c1ff-4481-ba3f-017430d506bc.png" width="17"> TP Menu *(teleportation menu)*, that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*
 
