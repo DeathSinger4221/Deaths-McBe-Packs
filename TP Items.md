@@ -1,11 +1,11 @@
 <div align="center">
 
-# [Download v1.6.0](https://www.mediafire.com/file/mgujfir715a4d6a/TP_Items_v1.6.0.mcpack/file#)
+# [Download v1.6.1](https://www.mediafire.com/file/75pt5o4lmugnbh0/TP_Items_v1.6.1.mcpack/file#)
 
 ---
 
 # Teleportation Items and Warp Commands
-  This is a behavior pack that adds new **custom commands**. Like one to teleport you to "Spawn" or GameArenas that the world operators have marked with custom entities, a command to teleport your self to your respawn point. There is as well a **TP Menu** *(teleportation menu)*, that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*
+  This is a behavior pack that adds new **custom commands**. Like one to teleport you to "Spawn" or GameArenas that the world operators have marked with custom entities, a command to teleport yourself to your respawn point. There is as well a **TP Menu** *(teleportation menu)*, that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*
 
 ---
 
@@ -29,8 +29,8 @@
 # Marking down "Spawn" and MineGames location
   | Marker | How to place marker |
   | :---: | :---: |
-  | "Spawn" | `/summon tpi:spawn` |
-  | MiniGames | `/summon tpi:games` |
+  | "Spawn" | `/summon tpi:spawn <position: x y z>` |
+  | MiniGames | `/summon tpi:games <position: x y z>` |
 
 # TP Menu Information
   [<img src="https://user-images.githubusercontent.com/115075789/206479917-fc91efd8-29a1-4b46-8d55-50cf3c7aef93.png" width="500">]()
@@ -41,7 +41,7 @@
   Allows you to select a specific player that is online at the moment and send them a request so you can teleport to them.
 
 ### Your outgoing request
-  Here will appear the TP Request that you have send to an other player. You can have only one outgoing request at a time. Since have multiple doesn't have any use, you can only be at one location at a time. And like that others can't spam you with tp requests as easily.
+  Here will appear the TP Request that you have send to an other player. You can have only one outgoing request at a time. Since having multiple doesn't have any use, you can only be at one location at a time. And like that preventing players from sending requests to eveyone oline.
 
 ### Manage incoming requests
   Here go the TP requests that other players send to you, you can chose which to deny and to accept. When accepted, that player will teleport to you.
