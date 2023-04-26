@@ -1,11 +1,11 @@
 <div align=center>
 
-# [Download v1.3.0](https://www.mediafire.com/file/7kx7u1wore37wh1/Floating_Texts_v1.3.0.mcpack/file#)
+# [Download v1.3.1](https://www.mediafire.com/file/0pbxc471e4ktkf0/Floating_Texts_v1.3.1.mcpack/file#)
 
 ---
 
 # Floating Text
-  This is a behavior pack that adds a new **Floating Text Menu** and Floating Textst to your game. Using the menu you can place new texts and manage existing ones.
+  This is a behavior pack that adds a new **Floating Text Menu** and Floating Texts to your game. Using the menu you can place new texts and manage existing ones.
 
 ---
 
@@ -21,7 +21,7 @@
 # Floating Text Menu
   [<img src="https://user-images.githubusercontent.com/115075789/228661708-0afcac7f-5276-4cb4-b4d4-81c4c9bad76f.png" width="500">]()
 
-  To make the Floating Text Menu UI appear, you right-click/use the **Floating Text Menu** item. You will be greeted with 3 options:
+  To make the Floating Text Menu UI appear, you right-click/use the **Floating Text Menu** item. You will be greeted with 2 options:
 
 ### Create Floating Text
   Here you enter the text that should be displayed and weather it should be centered to the block position you're currently at. When you submit, it will summon a new Floating Text using the given information.
