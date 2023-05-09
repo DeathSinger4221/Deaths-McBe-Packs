@@ -1,6 +1,7 @@
 <div align=center>
 
 # [Download v1.3.1](https://www.mediafire.com/file/0pbxc471e4ktkf0/Floating_Texts_v1.3.1.mcpack/file#)
+Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 ---
 
