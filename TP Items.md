@@ -1,6 +1,7 @@
 <div align="center">
 
 # [Download v1.6.1](https://www.mediafire.com/file/75pt5o4lmugnbh0/TP_Items_v1.6.1.mcpack/file#)
+Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 ---
 
