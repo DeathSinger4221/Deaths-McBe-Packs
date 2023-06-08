@@ -1,6 +1,6 @@
 <div align=center>
 
-# [Download v1.3.1](https://www.mediafire.com/file/0pbxc471e4ktkf0/Floating_Texts_v1.3.1.mcpack/file#)
+# [Download v1.4.0](https://www.mediafire.com/file/wwev5npqvar54pk/Floating_Texts_v1.4.0.mcpack/file#)
 Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 ---
@@ -25,13 +25,10 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
   To make the Floating Text Menu UI appear, you right-click/use the **Floating Text Menu** item. You will be greeted with 2 options:
 
 ### Create Floating Text
-  Here you enter the text that should be displayed and weather it should be centered to the block position you're currently at. When you submit, it will summon a new Floating Text using the given information.
+  Here you enter the text that should be displayed and its position in the world. When you submit, it will summon a new Floating Text using the given information.
 
 ### Find Text by Name
   Here you can search for a specific floating text that already exists in your world by it's Text Content, and manage it by changing the displayed text, changing the text's location or entirely removing the floating text entity.
-
-### After
-  After these two options to search for a text or to create one, will be listed all the currenlty loaded Floating Texts in your world. You can select the one you would like to manage.
 
 # Imporatant Info
   This pack uses entities for the floating texts. So they are susceptible to the ``/kill`` command. The pack uses the ``minecraft:egg`` projectile entity as its base, but it does not interfere with the way the vanilla egg projectile functions, it justs uses the same entity.
