@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Download v1.6.1](https://www.mediafire.com/file/75pt5o4lmugnbh0/TP_Items_v1.6.1.mcpack/file#)
+# [Download v1.7.0](https://www.mediafire.com/file/5g9fj6a1fog91ij/TP_Items_v1.7.0.mcpack/file#)
 Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 ---
@@ -27,6 +27,8 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
   | `tpi.spawn` | Teleports you to the location that has been set as the "Spawn" by world operators using an entity marker |
   | `tpi.games` | Teleports you to the location that is used for MiniGames, set by world operators using an entity marker |
 
+  Commands have a cooldown of 3 seconds by default. Can change that in the Config File
+
 # Marking down "Spawn" and MineGames location
   | Marker | How to place marker |
   | :---: | :---: |
@@ -47,4 +49,7 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 ### Manage incoming requests
   Here go the TP requests that other players send to you, you can chose which to deny and to accept. When accepted, that player will teleport to you.
 
+# Config File
+  If you want to change the cooldown time or disable it completely or if you want to change the `tpi.` prefix to something else! However you will have to change that manually inside the pack folder. `/TP Items/scripts/config.js`
+ 
 </div align>
