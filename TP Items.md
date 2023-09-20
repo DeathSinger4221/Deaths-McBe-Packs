@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Download v1.7.1](https://www.mediafire.com/file/fohvr50m4yek68w/TP_Items_v1.7.1.mcpack/file#)
+# [Download v1.7.2](https://www.mediafire.com/file/ugza8yk1wwvuk0y/TP_Items_v1.7.2.mcpack/file#)
 Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 ---
@@ -50,6 +50,8 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
   Here go the TP requests that other players send to you, you can chose which to deny and to accept. When accepted, that player will teleport to you.
 
 # Config File
-  If you want to change the cooldown time or disable it completely or if you want to change the `tpi.` prefix to something else! However you will have to change that manually inside the pack folder. `/TP Items/scripts/config.js`
+  If you want to change the cooldown time or disable it completely or if you want to change the `tpi.` prefix to something else, you will have to change that manually inside the pack folder. `/TP Items/scripts/config.js`
+  [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/809e1c76-fa01-48d0-9447-d7960820fca7" width="1200">]()
+
  
 </div align>
