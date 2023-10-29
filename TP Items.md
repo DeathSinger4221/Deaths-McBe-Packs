@@ -8,7 +8,7 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 # Teleportation Items
   [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/blob/main/thumbnails/tpItems.png?raw=true" width="600">]()
 
-  This is a behavior pack that adds  a **TP Menu** *(teleportation menu)* that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*, and adds a marker system for world admins to mark down important locations to which anyone can teleport to! Some markers can be set to admin only as well!
+  This is a behavior pack that adds  a **TP Menu** *(teleportation menu)* that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*, and adds a **marker system** for world admins to mark down important locations to which anyone can teleport to! Some markers can be set to admin only as well!
 
 ---
 
