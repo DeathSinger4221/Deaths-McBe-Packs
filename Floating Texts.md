@@ -28,6 +28,7 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 ### Create Floating Text
   Here you enter the text that should be displayed and its position in the world. When you submit, it will summon a new Floating Text using the given information.
+  Note: You can use `\n` to have multiline floating texts.
 
 ### Find Text by Name
   Here you can search for a specific floating text that already exists in your world by it's Text Content, and manage it by changing the displayed text, changing the text's location or entirely removing the floating text entity.
