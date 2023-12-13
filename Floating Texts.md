@@ -1,6 +1,6 @@
 <div align=center>
 
-# [Download v1.4.5](#)
+# [Download v1.4.5](https://www.mediafire.com/file/8at5dtj11c2ctz9/Floating_Texts_v1.4.5.mcpack/file#)
 Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 Last Update - 13.12.2023
