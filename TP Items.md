@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Download v1.8.0](https://www.mediafire.com/file/o6gjlkr4rceh4o8/TP_Items_v1.8.0.mcpack/file#)
+# [Download v1.9.0](https://www.mediafire.com/file/20ha1vnalnvn4ao/TP_Items_v1.9.0.mcpack/file#)
 Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 ---
@@ -8,26 +8,16 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 # Teleportation Items
   [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/blob/main/thumbnails/tpItems.png?raw=true" width="600">]()
 
-  This is a behavior pack that adds  a **TP Menu** *(teleportation menu)* that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*, and adds a **marker system** for world admins to mark down important locations to which anyone can teleport to! Some markers can be set to admin only as well!
+  This is a behavior pack that adds  a **TP Menu** *(teleportation menu)* that allows you to send tp requests to other players asking them if you are allowed to teleport to them. *(tpr - tpa system)*, and adds a **marker system** for world admins to mark down important locations to which anyone can teleport to! Some markers can be set so only staff can tp to them!
+
+  No Experimental Toggles needed!
 
 ---
 
-# Experimental Toggles
-  | | |
-  | :--- | :---: |
-  | **Holiday Creator Features** | [<img src="https://user-images.githubusercontent.com/115075789/207722874-c9c3b1d5-8ee3-428f-95a9-564a5bd21361.png" width="75">]() |
-  | **Custom Biomes** | [<img src="https://user-images.githubusercontent.com/115075789/207723014-b09cdef4-b687-42e0-a371-6632e93f5458.png" width="75">]() |
-  | **Upcoming Creator Features** | [<img src="https://user-images.githubusercontent.com/115075789/207723014-b09cdef4-b687-42e0-a371-6632e93f5458.png" width="75">]() |
-  | **Beta APIs** | [<img src="https://user-images.githubusercontent.com/115075789/207722874-c9c3b1d5-8ee3-428f-95a9-564a5bd21361.png" width="75">]() |
-  | **MoLang Features** | [<img src="https://user-images.githubusercontent.com/115075789/207723014-b09cdef4-b687-42e0-a371-6632e93f5458.png" width="75">]() |
+# Obtaining the TP Menu
+  [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/5efb4b27-c16a-43d1-b6f8-946de2b19bd1" width="400">]()
 
-# Custom Commands
-  | **Command** | **Description** |
-  | :---: | :--- |
-  | `tpi.menu` | Gives you the TP Menu |
-  | `tpi.bed` | Teleports you to your respawn point |
-
-  Commands have a cooldown of 3 seconds & the `tpi.` prefix by default. Can change them in the Config File
+  You can craft a TP Menu out of a stick
 
 # TP Menu
   [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/3bd74f85-d9d5-4652-b207-03a7771b5d23" width="500">]()
@@ -54,12 +44,18 @@ Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
 
   [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/bf91021d-fbbb-4842-96d3-ef1277f3a101" width="500">]()
 
-  When clicked, it will list you every marker possible *(Every marker type can be changed or you can create new markers in the config file)* and indicate if the marker has been set or not in the world. Once you selected a marker, if it existed, you can move or remove it, else you can set it in the world.
+  When clicked, it will list every marker set in the world, say if it's a private marker or not and give you the option to create more.
+  If you click on an existing marker, you will have to possibilty to change any information about the marker or even delete it.
+
+# Movement Countdown
+  [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/558635d0-1ee8-47d0-9db4-913a3ff4dfaf" width="500">]()
+
+  When teleporting with the Menu to a marker or respawn point, you will need to stay still for a certain amout of time like set in the config file. Default is 5 seconds.
+  Players with the manager tag however do not need to wait and their teleports are instant.
 
 
 # Config File
   `/TP Items/scripts/config.js`
-  [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/04bc3de6-fc79-453c-9d59-35e0c8f5bed1" width="1000">]()
-
+  [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/95f80291-f889-447a-a232-5abf2063a186" width="1000">]()
  
 </div align>
