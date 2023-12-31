@@ -1,9 +1,9 @@
 <div align="center">
 
 # [Download v1.9.0](https://www.mediafire.com/file/20ha1vnalnvn4ao/TP_Items_v1.9.0.mcpack/file#)
-Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
+Join my [**Discord Server**](https://discord.gg/bs66cpWkqf) for Support & Updates
 
-Here a [YouTube Video](https://youtu.be/LNbnUohyj9U) on how to use the Pack
+Here a [**YouTube Video**](https://youtu.be/LNbnUohyj9U) on how to use the Pack
 
 Updated on 16.12.2023
 
