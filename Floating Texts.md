@@ -1,7 +1,9 @@
 <div align=center>
 
-# [Download v1.4.5](https://www.mediafire.com/file/8at5dtj11c2ctz9/Floating_Texts_v1.4.5.mcpack/file#)
-Join my [Discord Server](https://discord.gg/bs66cpWkqf) for Support & Updates
+# [Download v1.4.5](https://loot-links.com/s?hluh)
+Join my [**Discord Server**](https://discord.gg/bs66cpWkqf) for Support & Updates
+
+If having issues to download, [**Ad-Free Download**](https://www.mediafire.com/file/8at5dtj11c2ctz9/Floating_Texts_v1.4.5.mcpack/file#) here
 
 Updated on 13.12.2023
 
