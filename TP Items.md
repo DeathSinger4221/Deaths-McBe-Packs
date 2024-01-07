@@ -1,9 +1,11 @@
 <div align="center">
 
-# [Download v1.9.0](https://www.mediafire.com/file/20ha1vnalnvn4ao/TP_Items_v1.9.0.mcpack/file#)
+# [Download v1.9.0](https://loot-link.com/s?gnVQ)
 Join my [**Discord Server**](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 Here a [**YouTube Video**](https://youtu.be/LNbnUohyj9U) on how to use the Pack
+
+If having issues to download, [**Ad-Free Download**](https://www.mediafire.com/file/20ha1vnalnvn4ao/TP_Items_v1.9.0.mcpack/file#) here
 
 Updated on 16.12.2023
 
