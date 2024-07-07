@@ -1,6 +1,8 @@
 <div align="center">
 
 # [Download v1.9.0](https://www.mediafire.com/file/wxugqsvdzw7glzd/TP_Items_v1.9.0.mcpack/file)
+`The blue download text is clickable! It's a link.`
+
 Join my [**Discord Server**](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 Here a [**YouTube Video**](https://youtu.be/LNbnUohyj9U) on how to use the Pack
