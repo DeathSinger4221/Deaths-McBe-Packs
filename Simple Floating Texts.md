@@ -1,6 +1,8 @@
 <div align="center">
 
 # [Download v2.0.0](https://www.mediafire.com/file/pbw5j62f1vz3whf/Simple_Floating_Texts_v2.0.0.mcpack/file#)
+`The blue download text is clickable! It's a link.`
+
 Join my [**Discord Server**](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 Updated on 02.07.2024
@@ -42,6 +44,6 @@ Updated on 02.07.2024
 
 # Imporatant
   This pack uses entities for the floating texts. So they are susceptible to the `/kill` command. The pack uses the `minecraft:egg` projectile entity as its base, but it does not interfere with the way the vanilla egg projectile functions, it justs uses the same entity.
-  So if your texts are being removed/killed, check for any /kill command blocks and add a `[type=!minecraft:egg]`
+  So if your texts are being removed/killed, check for any /kill command blocks and add a "/kill @e[...,`type=!minecraft:egg`,...]"
 
 </div align>
