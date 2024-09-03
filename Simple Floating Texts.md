@@ -1,14 +1,12 @@
 <div align="center">
 
 # [Download v2.0.0](https://www.mediafire.com/file/pbw5j62f1vz3whf/Simple_Floating_Texts_v2.0.0.mcpack/file#)
-`The blue download text is clickable! It's a link.`
 
 Join my [**Discord Server**](https://discord.gg/bs66cpWkqf) for Support & Updates
 
 Updated on 02.07.2024
 
 ---
-
 # **Simple Floating Texts**
   [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/raw/main/thumbnails/floatingTexts.png?raw=true" width="700">]()
 
@@ -16,8 +14,9 @@ Updated on 02.07.2024
 
   `No experimental toggles needed!`
 
----
+  [<img src="https://github.com/user-attachments/assets/2475dc9e-60d3-4236-af89-e48430b2574b" width="40%">](https://www.mediafire.com/file/pbw5j62f1vz3whf/Simple_Floating_Texts_v2.0.0.mcpack/file#)
 
+---
 # **Floating Text Menu**
   [<img src="https://github.com/DeathSinger4221/Deaths-McBe-Packs/assets/115075789/12adcb19-5a09-4049-8e37-80c19cd96750" width="500">]()
 
