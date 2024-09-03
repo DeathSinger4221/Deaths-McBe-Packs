@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Download v1.11.0](https://www.mediafire.com/file/3u41zj7y2s8wr0d/TP_Items_v1.11.0.mcpack/file)
+# [Download v1.11.0](https://www.mediafire.com/file/3u41zj7y2s8wr0d/TP_Items_v1.11.0.mcpack/file#)
   `The blue download text is clickable! It's a link.`
 
   Join my [**Discord Server**](https://discord.gg/bs66cpWkqf) for Support & Updates
@@ -15,7 +15,9 @@
   This is a behavior pack that adds  a **TP Menu** *(teleportation menu)* that allows you to send tp requests to other players asking them if you are allowed to teleport to them *(tpr - tpa system)*, and adds a **marker system** for world admins to mark down important locations to which anyone can teleport to! Or only other admins.\
   This includes a personal marker everyone has, their respawn poin! (can be disabled)
 
-  **No Experimental Toggles needed!**
+  `No Experimental Toggles needed!`
+
+  [<img src="https://github.com/user-attachments/assets/2475dc9e-60d3-4236-af89-e48430b2574b" width="40%">](https://www.mediafire.com/file/3u41zj7y2s8wr0d/TP_Items_v1.11.0.mcpack/file#)
 
 ---
 # Pack Settings for obtaining the TP Menu
